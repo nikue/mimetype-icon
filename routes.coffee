@@ -12,6 +12,7 @@ DIRECTORY_ICON_NAMES = [
   "application/folder"
 ]
 http = require("http")
+https = require("https")
 ICONS_MANIFEST = null
 fetchIconsManifest = ()->
   request.get {url:ICONS_MANIFEST_URL, json:true}, (e, r, result) ->
