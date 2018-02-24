@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:darvin/mimetype-icon.git"
+    "url": "git@github.com:nikue/mimetype-icon.git"
   },
   "keywords": [
     "heroku",
